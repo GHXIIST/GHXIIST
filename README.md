@@ -1,7 +1,7 @@
 # Sleeping :zzz:
 
 [![GHXIIST's github stats](https://github-readme-stats.vercel.app/api?username=GHXIIST&show_icons=true&theme=tokyonight)](https://github.com/GHXIIST/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GHXIIST&layout=compact&theme=tokyonight)](https://github.com/GHXIIST/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GHXIIST&theme=tokyonight)](https://github.com/GHXIIST/github-readme-stats)
 
 
 <!--
