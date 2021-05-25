@@ -1,8 +1,9 @@
 # Sleeping :zzz:
 
-[![GHXIIST's github stats](https://github-readme-stats.vercel.app/api?username=GHXIIST&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![GHXIIST's github stats](https://github-readme-stats.vercel.app/api?username=GHXIIST&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GHXIIST&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
+<!--&show_icons=true-->
 
 <!--
 **GHXIIST/GHXIIST** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
